@@ -2,6 +2,7 @@ streamlit
 numpy
 pandas
 scikit-learn
+runtime.txt
 pillow
 opencv-python-headless
 tensorflow-cpu==2.13.0
