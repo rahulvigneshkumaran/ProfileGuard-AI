@@ -1,0 +1,102 @@
+image_path,bio_text,followers,following,posts,account_age,engagement_rate,label
+images/000041.jpg,"Normal user",500,400,60,300,0.08,0
+images/000042.jpg,"Travel lover",600,500,70,200,0.07,0
+images/000043.jpg,"Software engineer",700,600,80,400,0.09,0
+images/000044.jpg,"Photographer",800,650,90,450,0.10,0
+images/000045.jpg,"Student life",550,420,50,220,0.06,0
+images/000046.jpg,"Fitness lover",720,520,75,340,0.07,0
+images/000047.jpg,"Music fan",650,480,70,300,0.07,0
+images/000048.jpg,"Tech enthusiast",780,600,85,380,0.08,0
+images/000049.jpg,"Entrepreneur",900,700,95,500,0.10,0
+images/000050.jpg,"Nature lover",720,520,75,340,0.07,0
+images/000051.jpg,"UI designer",830,640,88,410,0.09,0
+images/000052.jpg,"Developer",870,650,92,430,0.09,0
+images/000053.jpg,"Cricket fan",690,500,68,310,0.07,0
+images/000054.jpg,"Traveler",910,700,120,520,0.11,0
+images/000055.jpg,"Artist",600,450,55,250,0.06,0
+images/000056.jpg,"Content creator",780,580,85,360,0.08,0
+images/000057.jpg,"Gamer",650,490,72,290,0.07,0
+images/000058.jpg,"Student",620,460,60,220,0.06,0
+images/000059.jpg,"Life lover",700,520,78,330,0.07,0
+images/000060.jpg,"Explorer",710,530,80,350,0.08,0
+images/000061.jpg,"Engineer",800,600,85,400,0.09,0
+images/000062.jpg,"Blogger",750,580,82,370,0.08,0
+images/000063.jpg,"Freelancer",680,500,70,300,0.07,0
+images/000064.jpg,"Student dev",650,480,65,280,0.07,0
+images/000065.jpg,"Nature photographer",820,640,90,420,0.09,0
+images/000066.jpg,"Designer",770,600,80,350,0.08,0
+images/000067.jpg,"Traveler life",850,670,95,430,0.10,0
+images/000068.jpg,"Tech geek",800,620,85,390,0.09,0
+images/000069.jpg,"Fitness coach",780,600,88,380,0.08,0
+images/000070.jpg,"Food blogger",760,590,84,360,0.08,0
+images/000071.jpg,"Nature lover",720,540,78,340,0.07,0
+images/000072.jpg,"AI learner",690,500,72,310,0.07,0
+images/000073.jpg,"Startup founder",880,690,100,470,0.10,0
+images/000074.jpg,"Engineer life",810,630,90,400,0.09,0
+images/000075.jpg,"Creative mind",770,600,85,360,0.08,0
+images/000076.jpg,"Life explorer",740,580,80,350,0.08,0
+images/000077.jpg,"Travel story",790,620,88,380,0.09,0
+images/000078.jpg,"Coding life",820,650,92,410,0.09,0
+images/000079.jpg,"Student AI",700,520,75,330,0.07,0
+images/000080.jpg,"Happy soul",710,540,78,340,0.07,0
+images/000081.jpg,"Creative dev",780,600,85,380,0.08,0
+images/000082.jpg,"Tech builder",800,620,90,400,0.09,0
+images/000083.jpg,"Engineer",810,630,92,410,0.09,0
+images/000084.jpg,"Nature pic",760,580,82,350,0.08,0
+images/000085.jpg,"Photographer",850,670,95,430,0.10,0
+images/000086.jpg,"Designer UI",770,600,85,360,0.08,0
+images/000087.jpg,"Dev life",800,620,88,390,0.09,0
+images/000088.jpg,"Tech world",820,640,90,410,0.09,0
+images/000089.jpg,"Life journey",780,600,85,380,0.08,0
+images/000090.jpg,"AI enthusiast",830,650,92,420,0.09,0
+images/000100.jpg,"Earn money fast!!!",20,3000,1,5,0.001,1
+images/000101.jpg,"DM for promo $$$",15,4000,0,3,0.0005,1
+images/000102.jpg,"Free crypto giveaway",10,5000,0,2,0.0003,1
+images/000103.jpg,"Click link now!!!",25,4500,1,6,0.001,1
+images/000104.jpg,"Official_001 $$$",18,4200,0,4,0.0004,1
+images/000105.jpg,"Earn dollars now!!!",12,4800,0,3,0.0002,1
+images/000106.jpg,"Promo DM $$$",22,4100,1,5,0.0008,1
+images/000107.jpg,"Make money 💸",15,4700,0,2,0.0003,1
+images/000108.jpg,"Free followers",30,5000,1,7,0.001,1
+images/000109.jpg,"Win cash now!!!",10,4900,0,2,0.0002,1
+images/000110.jpg,"Limited offer",18,4300,0,3,0.0004,1
+images/000111.jpg,"Crypto signals",25,4600,1,6,0.0009,1
+images/000112.jpg,"DM $$$",14,4200,0,3,0.0003,1
+images/000113.jpg,"Passive income",16,4400,0,4,0.0005,1
+images/000114.jpg,"Click earn 💰",20,4800,0,5,0.0006,1
+images/000115.jpg,"Get rich fast",11,4700,0,2,0.0002,1
+images/000116.jpg,"Free giveaway",19,4500,1,6,0.0008,1
+images/000117.jpg,"Promo account",13,4300,0,3,0.0003,1
+images/000118.jpg,"Instant cash",17,4600,0,4,0.0005,1
+images/000119.jpg,"Click now!!!",21,4900,1,7,0.0009,1
+images/000120.jpg,"Earn now!!!",15,4700,0,3,0.0004,1
+images/000121.jpg,"Free crypto",10,4800,0,2,0.0003,1
+images/000122.jpg,"Promotion DM",20,4600,0,4,0.0005,1
+images/000123.jpg,"Click link fast",25,4500,1,6,0.001,1
+images/000124.jpg,"Earn money $$$",12,4900,0,3,0.0002,1
+images/000125.jpg,"Offer today!!!",18,4700,0,3,0.0004,1
+images/000126.jpg,"Crypto $$$",15,4600,0,2,0.0003,1
+images/000127.jpg,"Fast cash",17,4800,0,3,0.0004,1
+images/000128.jpg,"DM promo",20,4500,1,5,0.0007,1
+images/000129.jpg,"Earn online",13,4400,0,3,0.0003,1
+images/000130.jpg,"Free $$$",10,5000,0,2,0.0002,1
+images/000131.jpg,"Click here",25,4700,1,6,0.001,1
+images/000132.jpg,"Money fast",15,4600,0,3,0.0004,1
+images/000133.jpg,"Promo now",20,4800,0,4,0.0005,1
+images/000134.jpg,"Earn daily",18,4700,0,3,0.0004,1
+images/000135.jpg,"Crypto money",16,4600,0,3,0.0003,1
+images/000136.jpg,"Quick cash",14,4500,0,2,0.0003,1
+images/000137.jpg,"DM offer",22,4800,1,5,0.0007,1
+images/000138.jpg,"Free deal",12,4700,0,3,0.0003,1
+images/000139.jpg,"Click fast",19,4600,0,3,0.0004,1
+images/000140.jpg,"Earn $$$",15,4900,0,2,0.0002,1
+images/000141.jpg,"Money link",13,4800,0,3,0.0003,1
+images/000142.jpg,"Promo $$$",20,4700,1,5,0.0007,1
+images/000143.jpg,"Cash now",17,4600,0,3,0.0004,1
+images/000144.jpg,"Crypto fast",14,4500,0,2,0.0003,1
+images/000145.jpg,"Earn free",18,4800,0,3,0.0004,1
+images/000146.jpg,"Offer $$$",16,4700,0,3,0.0003,1
+images/000147.jpg,"Click $$$",12,4600,0,2,0.0002,1
+images/000148.jpg,"Free money",10,5000,0,2,0.0002,1
+images/000149.jpg,"Earn instantly",15,4900,0,3,0.0003,1
+images/000150.jpg,"Cash click",20,4800,0,4,0.0005,1
